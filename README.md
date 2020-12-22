@@ -1,7 +1,5 @@
-<p align="center">
-<h1><a href="https://crewmate.xyz/home" alt = "Website link"><img src="https://crewmate.xyz/static/app-assets/images/logo/logo.svg" width="5%"></a> Crewmate Client</h1>
 
-</p>
+![](https://cdn.discordapp.com/attachments/780710769548722176/790794597580144660/banner.png)
 
 Crewmate Client is memory reader for Among Us
 
