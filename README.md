@@ -1,5 +1,8 @@
+<a href="https://crewmate.xyz/home">
+<img alt="Banner" src="https://cdn.discordapp.com/attachments/780710769548722176/790794597580144660/banner.png">
+</a>
 
-![](https://cdn.discordapp.com/attachments/780710769548722176/790794597580144660/banner.png)
+# 
 
 Crewmate Client is memory reader for Among Us
 
@@ -29,3 +32,4 @@ Crewmate Client is memory reader for Among Us
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode)
 
 ![CC License Picture](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
+ 
