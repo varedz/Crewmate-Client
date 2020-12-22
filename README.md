@@ -1,5 +1,5 @@
 <a href="https://crewmate.xyz/home">
-<img alt="Banner" src="https://cdn.discordapp.com/attachments/780710769548722176/790794597580144660/banner.png">
+<img alt="Banner" src="https://github.com/varedz/Crewmate-Client/blob/main/banner.png">
 </a>
 
 # 
