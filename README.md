@@ -9,11 +9,11 @@ Crewmate Client is memory reader for Among Us.
 # Installation
 
 <h4>Download the latest version of the Client here:
-<a href="https://crewmate.xyz/download">
+<a href="https://crewmate.xyz/download" target="_blank">
 <img alt="GitHub release" src="https://img.shields.io/github/v/release/varedz/Crewmate-Client">
 </a></h4>
 <h4>If you don't have the bot invite it here:
-<a href="https://crewmate.xyz/invite">
+<a href="https://crewmate.xyz/invite" target="_blank">
 <img alt="Invite Link" src="https://img.shields.io/static/v1?label=bot&amp;message=invite%20me&amp;color=C60909" style="max-width:100%;">
 </a>
 
@@ -29,7 +29,7 @@ Crewmate Client is memory reader for Among Us.
 
 
 ## License
-[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode)
+<a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode">CC BY-NC-ND</a><br />
+<a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode"><img src="https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png" alt="CC BY-NC-ND"></a>
 
-![CC License Picture](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
  
