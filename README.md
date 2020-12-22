@@ -9,7 +9,7 @@ Crewmate Client is memory reader for Among Us.
 # Installation
 
 <h4>Download the latest version of the Client here:
-<a href="https://github.com/varedz/Crewmate-Client/releases/latest">
+<a href="https://crewmate.xyz/download">
 <img alt="GitHub release" src="https://img.shields.io/github/v/release/varedz/Crewmate-Client">
 </a></h4>
 <h4>If you don't have the bot invite it here:
