@@ -4,7 +4,7 @@
 
 # 
 
-Crewmate Client is memory reader for Among Us
+Crewmate Client is memory reader for Among Us.
 
 # Installation
 
@@ -14,7 +14,7 @@ Crewmate Client is memory reader for Among Us
 </a></h4>
 <h4>If you don't have the bot invite it here:
 <a href="https://crewmate.xyz/invite">
-<img alt="Invite Link" src="https://img.shields.io/static/v1?label=bot&amp;message=invite%20me&amp;color=darkred" style="max-width:100%;">
+<img alt="Invite Link" src="https://img.shields.io/static/v1?label=bot&amp;message=invite%20me&amp;color=C60909" style="max-width:100%;">
 </a>
 
 
